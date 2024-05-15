@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "fe370bca2de7f303",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16265d39c4a474d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f21c5cee6c3abf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Follow ups on star wars.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c00105f1b3cc6aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd07aa31afd50ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4603df467d72d0d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5f3dbcab0ecc21b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5638a3f5b5f05e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d6035c22b76e1ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8613470ff5ca6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ce286de37f1da9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Follow ups on star wars.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897fb74bed2af4dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Follow ups on star wars.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "463ba028b4bb7395",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9af0ebbab51edf55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Follow ups on star wars.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f21c5cee6c3abf5",
+  "lastOpenFiles": [
+    "Aetheria",
+    "World/Solaris.md",
+    "Crown of the Immortals/Pitch Document.md",
+    "Solaris origional.webp",
+    "World/Aetheria.md",
+    "World/Religion/Raythelion.md",
+    "World/Religion/Erabose.md",
+    "Crown of the immortals pitch.md",
+    "Crown of the Immortals",
+    "2024-04-08.md",
+    "Untitled.canvas",
+    "Raythelion.md"
+  ]
+}

@@ -1,0 +1,4 @@
+# Erabose
+![Erabose](../../assets/Erabose-Logo.jpg)
+
+Erobose is often depicted as a Murder of Fanged Crows that either blot out the sun or are eating the sun. Erabose repressents all corruption and hate. he looks to corrupt the hearts and minds of the people of Aetheria and is only satiated when something of the created order is destroyed. He and his underlings, are at the heart of every dark plot and he attracts followers who have malice and destruction in their hearts. He doe offer great power to those who would follow him, being a greater being of the Deific order, esspecially considering that the rest of the gods that are of his level are not as involved into the day to day lives of the peoples of this world. The power he offers is great, but is does come at a cost. By getting the "Quick fix" his followers have a tendency to not be strong enough to avoid corruption and are forever tainted and most often enthralled to him from that point forward.
