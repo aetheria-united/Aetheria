@@ -1,6 +1,6 @@
 # Character Background
 1. how old is your character?
-2. Tell me about your character's family?
+2. Your character's family?
 	- Are they still alive?
 	- How does your character feel about their family?
 1. What did your character do before The Flaming Retribution?
@@ -17,3 +17,5 @@
 	- Are they a part of teh community?
 9. Does your character have a fear or a fobia?
 10. What are your character's favorite thing?
+
+monthly team lunch for QE team.

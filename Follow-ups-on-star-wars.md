@@ -1,7 +1,3 @@
-What was your favorite part of last session?
-What was your least favorite part of last session?
-What git
-
 # Idea for a quick start 
 I have been trying to figure out a good way to start the campaign to get all the background data that I want with us building the world together and how to get us to be able to start playing sooner rather than later and I think I have come to a good solution and want to see if you guys are up for it.
 

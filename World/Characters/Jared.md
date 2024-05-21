@@ -1,0 +1,6 @@
+# Jared
+![Jared](../../assets/Jared.jpg)
+
+The once disgraced priest of the Order of the High Sun, Jared was recieved a vision of destruction from Raythelion. This vision was accompanied by a divine prompting to travel from [Lumoplolis](../Locations/Solaris/Old-World/The-Blessed-Realm/Lumopolis.md) and go from city to city everywhere in [The Blessed Realm](../Locations/Solaris/Old-World/The-Blessed-Realm/0-The-Blessed-Realm.md) and encourage the people to Turn back to Raythelion. A Majority of the people didn't listen to him. He sounded like a crazy man and looked like a beggar. [The Blessed Realm](../Locations/Solaris/Old-World/The-Blessed-Realm/0-The-Blessed-Realm.md) was still under the protection of [Raythelion](../Religion/Raythelion.md) and they still served him, or so they thought. But he called for a deeper commitment, and it was not what they were willing to do, so they ignored him. They have always been the most powerful of the nations and they would continue to be so forever.
+
+While Jared was not able to convince all, he was able to convince some, and while it was not enough to save his beloved nation, it was enough for him and the people that followed him to start a new. They traveled to the north in search of a place that would survive the destruction and they barely made it out in time. The 
