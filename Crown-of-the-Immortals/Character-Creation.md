@@ -5,7 +5,7 @@ A year later, the community settled in a newly created River Fork on the planes.
 
 # Building a Character
 1. A - Ancestry
-	1. Heratiges vs Versitile heritages
+	1. Heritages vs Versatile Heritages
 2. B - Background
 3. C - Class
 4. D - Don't forget your ability boosts
