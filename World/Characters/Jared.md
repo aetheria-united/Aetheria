@@ -1,11 +1,31 @@
 # Jared
+
 ![Jared](../../assets/Jared.jpg)
 
-The once disgraced priest of the Order of the High Sun, Jared was recieved a vision of destruction from Raythelion. This vision was accompanied by a divine prompting to travel from [Lumoplolis](../Locations/Solaris/Old-World/The-Blessed-Realm/Lumopolis.md) and go from city to city everywhere in [The Blessed Realm](../Locations/Solaris/Old-World/The-Blessed-Realm/0-The-Blessed-Realm.md) and encourage the people to Turn back to Raythelion. A Majority of the people didn't listen to him. He sounded like a crazy man and looked like a beggar. [The Blessed Realm](../Locations/Solaris/Old-World/The-Blessed-Realm/0-The-Blessed-Realm.md) was still under the protection of [Raythelion](../Religion/Raythelion.md) and they still served him, or so they thought. But he called for a deeper commitment, and it was not what they were willing to do, so they ignored him. They have always been the most powerful of the nations and they would continue to be so forever.
+## Early Life and Calling
 
-While Jared was not able to convince all, he was able to convince some, and while it was not enough to save his beloved nation, it was enough for him and the people that followed him to start a new. They traveled to the north in search of a place that would survive the destruction and they barely made it out in time. The Firey destruction started right as he, and his followers left the boarders of the nation. The destruction chased after them as they moved north. They settled in a river fork in a part of the land that they didn't recognize a weeks travel north of the boarders.
+- **Background**: Once a respected priest of the Order of the High Sun, Jared received a divine vision of destruction from Raythelion. Prompted by this vision, he embarked on a mission to travel across [The Blessed Realm](../Locations/Solaris/Old-World/The-Blessed-Realm/0-The-Blessed-Realm.md), urging the people to return to the worship of Raythelion.
+- **Divine Prompting**: Despite facing skepticism and disbelief, Jared remained steadfast in his mission, compelled by his faith and the urgency of his divine calling. His message was met with resistance, as many refused to heed his warnings, dismissing him as a madman or a beggar.
 
-Jared as a younger man was a very well respected priest, but he fell out of favor when he started to point out the flaws in the worship. They went from indulging the respected priest to casting him out of the temple. He has excommunicated for the past 5 years. Prior to his fall from grace he was one of the higher ranking priests of Raythelion.
+## Fall from Favor
 
-A picture of Jared in the Temple
+- **Excommunication**: Jared's insistence on a deeper commitment to Raythelion's worship led to his fall from grace within the priesthood. He was excommunicated and cast out of the temple, labeled as a heretic for his perceived blasphemy.
+- **Former Status**: Before his exile, Jared held a position of prominence within the priesthood, respected for his piety and devotion to Raythelion. His expulsion marked a dramatic shift in his circumstances and reputation.
+
+## Journey Northward
+
+- **Escape from Destruction**: Fleeing the imminent destruction of [The Blessed Realm](../Locations/Solaris/Old-World/The-Blessed-Realm/0-The-Blessed-Realm.md), Jared and his followers embarked on a perilous journey northward. They settled in a remote river fork, seeking refuge from the devastation that chased them.
+- **New Beginnings**: Despite the loss of their homeland, Jared and his followers found hope in their new settlement. They viewed it as an opportunity to start anew and reaffirm their commitment to Raythelion's teachings.
+
+## Impact and Legacy
+
+- **Message of Warning**: While Jared's efforts were met with mixed results, his unwavering faith and determination left a lasting impact on those who heeded his warnings. His message of repentance and return to Raythelion's worship served as a reminder of the consequences of spiritual complacency.
+- **Symbol of Perseverance**: Jared's journey symbolizes the power of faith and resilience in the face of adversity. Despite the challenges and setbacks he encountered, he remained steadfast in his belief and commitment to his divine calling.
+
+## Reflections and Redemption
+
+- **Personal Struggle**: Jared's exile and journey tested his faith and resolve, forcing him to confront his own doubts and fears. Through perseverance and introspection, he found redemption in his unwavering commitment to Raythelion's will.
+- **Renewed Purpose**: In his new settlement, Jared continues to serve as a beacon of hope and guidance for his followers, leading by example and inspiring others to embrace their faith with renewed fervor.
+
+# A picture of Jared in the Temple
 ![Young Jared](../../assets/Jared-2.jpg)

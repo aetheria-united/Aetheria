@@ -1,3 +1,27 @@
+# Ignore Obsidian directory
 .obsidian/
-Crown-of-the-immortals/Adventures/
-.DS_Store/
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE directories
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
