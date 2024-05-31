@@ -32,13 +32,6 @@ Aurion's influence is felt in the creative endeavors of mortals, from the grande
 ### Legacy and Influence
 Aurion's legacy endures through the works of his followers, whose creations serve as testaments to his divine influence. From towering monuments to masterful works of art, each creation bears the mark of Aurion's creative touch, inspiring wonder and admiration for generations to come.
 
-### Potential Story Hooks
-- **The Lost Blueprint**: A quest to uncover a legendary blueprint said to contain the secrets of Aurion's most magnificent creation, leading to a journey of discovery and innovation.
-- **The Artisan's Challenge**: An event where craftsmen compete to create the most awe-inspiring work of art or architecture, seeking Aurion's favor and recognition for their talents.
-- **The Divine Muse**: A tale of divine inspiration, where a mortal artist receives visions from Aurion himself, guiding them to create a masterpiece that transcends mortal craftsmanship.
-
-Through these aspects of Aurion's character and influence, you can craft compelling narratives that explore the power of creation and the boundless potential of divine inspiration in the world of Aetheria. Let me know if you'd like to explore further or if there's anything else you need!
-
 ## Prayer to Aurion, the Prime Architect
 
 Oh, Aurion, Prime Architect divine,
