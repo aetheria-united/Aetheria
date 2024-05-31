@@ -34,12 +34,6 @@ Justicar's influence extends throughout the realms of law and morality, shaping 
 ### Legacy and Influence
 Justicar's legacy endures through the tireless efforts of his Sentinels, who uphold the principles of justice and order in a world fraught with chaos. Their unwavering dedication to the cause of righteousness serves as a beacon of hope for those who seek justice in an unjust world.
 
-### Potential Story Hooks
-- **The Trial of the Ages**: A quest to participate in the legendary Equinox Tribunal, where the fate of nations hangs in the balance and the scales of justice tip precariously.
-- **The Sentinel's Oath**: An initiation ceremony where aspiring Sentinels must prove their worthiness through a series of trials and tests of character, demonstrating their commitment to the cause of justice.
-
-Through these aspects of Justicar's character and influence, you can craft compelling narratives that explore the complexities of law, morality, and the eternal struggle to maintain balance in a world beset by conflict and discord.
-
 ## Prayer to Justicar, the Guardian of Balance
 
 Oh, Justicar, Scalebearer divine,
