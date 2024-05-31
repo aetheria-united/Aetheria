@@ -34,6 +34,8 @@ Raythelion's influence is felt in the warmth of sunlight, the growth of crops, a
 
 ### Sacred Texts and Teachings
 - **The Book of Radiance**: A sacred scripture that chronicles Raythelion's divine teachings and the deeds of his followers, serving as a guide for living in harmony with the cosmos.
+
+
 - **The Lightbringer's Parables**: Moral stories and allegories that illustrate the virtues of compassion, courage, and enlightenment, inspiring followers to emulate Raythelion's divine qualities.
 
 Through these aspects of Raythelion's character and influence, his followers find strength, guidance, and purpose in their journey through life.
