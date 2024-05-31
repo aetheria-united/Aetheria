@@ -1,4 +1,5 @@
 # Order of the Dawnguard
+![dawnguard](../../assets/order-of-the-dawnguard.jpg)
 
 The Order of the Dawnguard is a revered organization dedicated to protecting the innocent and upholding the principles of justice and righteousness. Founded in the aftermath of the Flaming Retribution, the Order emerged as a beacon of hope in the shattered lands of Solaris.
 

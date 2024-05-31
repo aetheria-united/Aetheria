@@ -1,4 +1,5 @@
 # Vorath the Betrayer
+![Vorath](../../assets/Vorath.jpg)
 
 ## Early Life
 

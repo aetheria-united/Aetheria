@@ -1,4 +1,5 @@
 # Sentinels of Equilibrium
+![Sentinels of Equilibrium](../../assets/sentinels-of-equilibrium.jpg) 
 
 The Sentinels of Equilibrium are an ancient order dedicated to preserving balance and harmony in the world of Aetheria. Formed in the wake of cosmic upheavals and cataclysms, they emerged as guardians of the delicate equilibrium between opposing forces.
 
