@@ -1,5 +1,6 @@
 # Maldran the Deceiver
 ![Maldran](../../assets/Maldran.jpg)
+<img style="float: right:" src="../../assets/Maldran.jpg" width="400">
 
 ## Early Life
 

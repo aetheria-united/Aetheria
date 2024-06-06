@@ -1,6 +1,6 @@
 # Jared
 
-![Jared](../../assets/Jared.jpg)
+<img style="float: right;" src="../../assets/Jared.jpg" width="305">
 
 ## Early Life and Calling
 
@@ -28,4 +28,4 @@
 - **Renewed Purpose**: In his new settlement, Jared continues to serve as a beacon of hope and guidance for his followers, leading by example and inspiring others to embrace their faith with renewed fervor.
 
 # A picture of Jared in the Temple
-![Young Jared](../../assets/Jared-2.jpg)
+<img style="align: center;" src="../../assets/Jared-2.jpg" width="400">
