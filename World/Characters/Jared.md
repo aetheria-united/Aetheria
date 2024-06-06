@@ -1,6 +1,6 @@
 # Jared
 
-<img style="float: right;" src="../../assets/Jared.jpg" width="305">
+![Jared after the Flaming Retribution](../../assets/Jared.jpg)
 
 ## Early Life and Calling
 
@@ -28,4 +28,4 @@
 - **Renewed Purpose**: In his new settlement, Jared continues to serve as a beacon of hope and guidance for his followers, leading by example and inspiring others to embrace their faith with renewed fervor.
 
 # A picture of Jared in the Temple
-<img style="align: center;" src="../../assets/Jared-2.jpg" width="400">
+![Jared before he left the temple](../../assets/Jared-2.jpg)
