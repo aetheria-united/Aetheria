@@ -8,13 +8,17 @@
 
 ## Preamble
 
-1. Barbarian, Champion and Sorcerer will be receiving updates in August, so we will need to take a look at making adjustments to them at that time.
-1. **Jason** 
+1. Video chat options?
+3. Barbarian, Champion and Sorcerer will be receiving updates in August, so we will need to take a look at making adjustments to them at that time.
+4. **Jason** 
    - Sorcerer things to keep in mind. Whenever you cast a focus spell or use a spell that is granted to you by your bloodline, You get your blood magic effect automatically applied, which at the moment is a +1 to AC for round.
    - When Player Core 2 comes out, there is a dragon versatile heritage that you can use, so instead of having the Human base with the Elf versatile heritage, you could have an elf base with a dragon versatile heritage which fits better with your back story.
-2. XP Rewards - I am going to be bum rushing you guys to level 5. I will be giving you accelerated xp for the first 5 levels, giving you less hp per fight every level gained. After you reach level 5 you will be gaining xp at the regular rate.
-3. I also am going to be running the VTT a little different. Less like a Video game and more like a Classical RPG.
-4. I will be asking for feedback after the end of every session to help me improve the game. Something that brings me joy is growing in my skills and doing a good job and I would ask that you take a few minutes after each session to answer a few questions to help me get better. You aren't doing me any favors, if I am doing something that is off putting or frustrating to you and you don't tell me. I want to be constantly improving.
+4. Variant Rules we will be playing with.
+	1. Free Archtype
+	2.  Automatic Bonus Progression (Skill potency must be managed manually)
+5. XP Rewards - I am going to be bum rushing you guys to level 5. I will be giving you accelerated xp for the first 5 levels, giving you less hp per fight every level gained. After you reach level 5 you will be gaining xp at the regular rate.
+6. I also am going to be running the VTT a little different. Less like a Video game and more like a Classical RPG.
+7. I will be asking for feedback after the end of every session to help me improve the game. Something that brings me joy is growing in my skills and doing a good job and I would ask that you take a few minutes after each session to answer a few questions to help me get better. You aren't doing me any favors, if I am doing something that is off putting or frustrating to you and you don't tell me. I want to be constantly improving.
     - Rate the session from 1-5
     - What was your favorite thing about the last session?
     - What was your least favorite thing about the last session?
