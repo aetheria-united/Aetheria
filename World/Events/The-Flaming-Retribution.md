@@ -1,4 +1,5 @@
 # The Flaming Retribution
+![Flaming Retrobution](../../assets/flaming-retrobution.jpg)
 
 - **Event Name**: The Flaming Retribution
 - **Date**: Approximately one year before the current timeline
