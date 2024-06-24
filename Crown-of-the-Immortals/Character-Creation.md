@@ -39,6 +39,6 @@ A year later, the community settled in a newly created River Fork on the planes.
 	- Name
 	- Nature of the relationship or how they interact with your character.
 	- Why they like/hate/respect/loathe your character
-	- Are they a part of teh community?
-9. Does your character have a fear or a fobia?
+	- Are they a part of the community?
+9. Does your character have a fear or a phobia?
 10. What are your character's favorite thing?
