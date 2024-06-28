@@ -60,50 +60,6 @@ Cahir aims to protect and serve his community, using his skills as a blacksmith 
 Cahir has a deep fear of losing his sister, [Angel](../../World/Characters/Angel.md). Her safety is his utmost priority.
 
 ## Favorite Things
-<<<<<<< HEAD
-<<<<<<< HEAD
-Cahir loves axe throwing, crafting axes, and studying how fire affects metal. These interests not only serve as hobbies but also enhance his skills as a blacksmith.
-
-# Scott's Responses to Questions
-Pathfinder game campaign Questions
-### 1.	How old is your character: 
->37
-### 2. Tell me about your character’s family: 
->Cahir’s father was an Orc and his mother a human. Father Died in the Flaming Retribution saving his family. Cahir has a brother who is Orc and a sister who is Dromaar. His brother has always been a rival as he would not accept his father’s decision to marry a human after his mother died.
-#### a.	Are they still alive?
-#### b.	How does your character feel about their family?
-### 3.	What did your character do before the Flaming Retribution? 
->He was training as warrior blacksmith under his father.
-### 4.	What does your character currently do for the community?
->He is a blacksmith that specializes in Axes
-### 5.	List at least 2 good personality traits. 
->Cahir is Loyal/protective and Bold
-### 6.	List at least 1 negative personality trait: 
->Cahir’s anger takes over his mind and body
-### 7.	What is your character’s worldview? 
->Cahir’s worldview changed to pessimistic, but his sister can bring him think optimistic.
-### 8.	What made your character follow the community north? 
->His sister
-### 9.	What is a specific goal that your character wants to achieve. 
->To protect and serve
-### 10.	Create a minimum of 3 friend/allies/enemies/rivals for your character
-#### a.	Name
-#### b.	Nature
-#### c.	Part of the community
->i.	Angel - sister, kind and loving, she works as a teacher to children
-
->ii.	Gald - brother (Orc), he survived but truly hates most of the community as most of his Orc friends died, he is bitter and provacing, he works as a woodsman mostly on his own
-
->iii.	Balanka - female friend Dromaar who has always wanted to marry Cahir, she is firm and kind, she is an organizer and leads the community’s supply efforts
-### 11.	Does your character have a fear of a phobia
->fear of losing sister
-### 12.	What are your character’s favorite things
->he loves axe throwing, making axes and studying  how fire affects metal.
-
-=======
-Cahir loves axe throwing, crafting axes, and studying how fire affects metal. These interests not only serve as hobbies but also enhance his skills as a blacksmith.
->>>>>>> fbdd1e5cb7a5251f911ff8bed1fe49a6ec609806
-=======
 Cahir loves axe throwing, crafting axes, and studying how fire affects metal. These interests not only serve as hobbies but also enhance his skills as a blacksmith.
 
 # Scott's Responses to Questions
