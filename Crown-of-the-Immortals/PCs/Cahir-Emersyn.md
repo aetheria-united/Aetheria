@@ -61,6 +61,7 @@ Cahir has a deep fear of losing his sister, [Angel](../../World/Characters/Angel
 
 ## Favorite Things
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cahir loves axe throwing, crafting axes, and studying how fire affects metal. These interests not only serve as hobbies but also enhance his skills as a blacksmith.
 
 # Scott's Responses to Questions
@@ -99,6 +100,9 @@ Pathfinder game campaign Questions
 ### 12.	What are your character’s favorite things
 >he loves axe throwing, making axes and studying  how fire affects metal.
 
+=======
+Cahir loves axe throwing, crafting axes, and studying how fire affects metal. These interests not only serve as hobbies but also enhance his skills as a blacksmith.
+>>>>>>> fbdd1e5cb7a5251f911ff8bed1fe49a6ec609806
 =======
 Cahir loves axe throwing, crafting axes, and studying how fire affects metal. These interests not only serve as hobbies but also enhance his skills as a blacksmith.
 >>>>>>> fbdd1e5cb7a5251f911ff8bed1fe49a6ec609806
