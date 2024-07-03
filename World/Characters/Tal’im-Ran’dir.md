@@ -14,6 +14,8 @@
 - **Eyes**: Bright green, sharp and observant
 - **Distinctive Features**: Tal'im had several faded scars from his adventuring days. He dressed in practical, well-worn clothing suitable for travel and the wilderness.
 
+![Tal'im](../../assets/Tal'im.jpg)
+
 ## Background
 
 ### Family

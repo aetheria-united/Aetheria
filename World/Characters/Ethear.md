@@ -12,6 +12,9 @@
 - **Eyes**: Piercing blue, like the clear sky after a storm
 - **Distinctive Features**: Her scales glisten with a cloud-like mist that constantly surrounds her. She has long, elegant horns and a majestic crest that runs down her back.
 
+![Ethear Dragon Form](../../assets/Ethear.jpg)
+
+![Ethear Elf Form](../../assets/Ethear-elf-form.jpg)
 ## Background
 
 ### Family

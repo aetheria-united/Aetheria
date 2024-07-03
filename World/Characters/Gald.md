@@ -14,6 +14,8 @@
 - **Eyes**: Deep brown, intense and brooding
 - **Distinctive Features**: Gald has numerous scars from battles and confrontations. He has a prominent tusk and wears rugged, practical clothing suitable for the forest.
 
+![Gald](../../assets/Gald.jpg)
+
 ## Background
 
 ### Family
