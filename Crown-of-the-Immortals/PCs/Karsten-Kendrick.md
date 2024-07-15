@@ -67,7 +67,7 @@ Karsten aims to establish a stronghold for the faithful in the new lands, ensuri
 
 - **Rival**:
   - **Name**: [Thalor](../../World/Characters/Thalor.md)
-  - **Nature**: Fellow[Solaris](../../World/Locations/Solaris.md)Sentinel
+  - **Nature**: Fellow [Solaris Sentinel](../../World/Factions/Solaris-Sentinels.md)
   - **Description**: [Thalor](../../World/Characters/Thalor.md) is a fellow member of the [Solaris Sentinals](../../World/Factions/Solaris-Sentinels.md) who often challenges Karsten's methods and decisions, believing in a more flexible approach.
   - **Role in Community**: Protector and warrior
 
